@@ -1,0 +1,18 @@
+.conteudo {
+    background: blue;
+    border: 1px solid red;
+    width: 200px;
+    height: 200px;
+    float: right;
+    margin: 10px;
+    
+}
+
+.conteudo1 {
+    background:green;
+    border: 1px solid red;
+    width: 200px;
+    height: 200px;
+    
+    
+}
